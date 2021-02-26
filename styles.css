@@ -1,0 +1,132 @@
+
+body{
+  font-family: 'Ubuntu', sans-serif;
+  text-align: left;
+  background-color: #f4f9f9;
+}
+
+#top{
+  text-align: center;
+  background-color: #a4ebf3;
+  color: #eeeeee;
+  padding-bottom: 8rem;
+}
+
+.nav-item{
+  padding: 0 1rem;
+  color: #eeeeee !important;
+}
+
+.nav-link{
+  color: #eeeeee !important;
+
+}
+
+.navbar{
+  margin-bottom: 3rem;
+  margin-left: 20rem;
+  margin-right: 20rem;
+}
+
+
+#profile-picture{
+  width: 150px;
+  margin-top: 2rem;
+
+}
+
+.whitesection{
+  background-color: #f4f9f9;
+}
+
+.bluesection{
+  background-color: #ccf2f4;
+}
+
+#about{
+  margin: 5rem 20rem 0 20rem;
+  text-align: left;
+}
+
+#programming{
+  margin: 5rem 20rem 0 20rem;
+}
+
+#portfolio{
+  margin: 5rem 20rem 0 20rem;
+  padding-bottom: 5rem;
+}
+
+.portfoliolink{
+  text-decoration: none;
+  color:#686d76;
+}
+
+
+#contact{
+  margin: 5rem 20rem 5rem 20rem;
+}
+
+.section-title{
+  color:#686d76;
+  line-height: 2;
+}
+
+.top-title{
+  font-style: "Devonshire";
+}
+
+.skill-section{
+  margin: 3rem 0;
+  color:#686d76;
+}
+
+
+.container{
+  margin-top: 2rem;
+}
+.programmingimg{
+  width:  40px;
+}
+
+.flagimg{
+  width: 40px;
+}
+
+.portfolioimg{
+  width:50rem;
+}
+
+.caption{
+  position: absolute;
+  width: 300px;
+  height: 100px;
+  z-index: 2;
+  background-color: #a4ebf3;
+  border-radius: 30px 0 0 30px;
+  padding: 1rem 0 0 1rem;
+  right:0;
+  bottom: 0;
+}
+
+.btn{
+  right:0 !important;
+  margin-top: 1rem;
+  background-color: #a4ebf3 !important;
+}
+
+
+p,li{
+  color:#686d76;
+}
+
+footer{
+  text-align: center;
+  background-color: #a4ebf3;
+  padding: 2rem 0;
+
+}
+
+.skillsTitle{
+font-size: 1.5rem;
+}
